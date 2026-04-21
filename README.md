@@ -119,7 +119,7 @@ Ważne informacje !
 Dane przechowywane są w pamięci RAM
 Po restarcie aplikacji wszystkie sesje znikają
 Projekt ma charakter edukacyjny
-▶️ Szybki start (TL;DR)
+Szybki start (TL;DR)
 git clone <URL_REPO>
 cd <PROJECT>
 python -m venv venv
@@ -133,3 +133,4 @@ http://localhost:5000/teacher
 Autor R.O
 
 System ewidencji obecności stworzony w Flask + QR code.
+
